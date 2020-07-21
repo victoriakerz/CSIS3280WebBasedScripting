@@ -1,0 +1,10 @@
+.feedback{
+    border-radius: 5px; 
+    background-color:chocolate;
+    padding: 10px;color:white
+}
+
+.width100 {
+    width: 100%;
+    box-sizing: border-box; 
+}

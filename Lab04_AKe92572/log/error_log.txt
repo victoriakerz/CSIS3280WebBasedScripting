@@ -1,0 +1,136 @@
+[04-Jun-2020 03:34:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displayFooter() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:114
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 114
+[04-Jun-2020 03:35:49 UTC] PHP Notice:  Undefined index: name in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 10
+[04-Jun-2020 03:35:49 UTC] PHP Stack trace:
+[04-Jun-2020 03:35:49 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:35:49 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:35:49 UTC] PHP Notice:  Undefined index: email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 11
+[04-Jun-2020 03:35:49 UTC] PHP Stack trace:
+[04-Jun-2020 03:35:49 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:35:49 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:35:49 UTC] PHP Notice:  Undefined index: terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 12
+[04-Jun-2020 03:35:49 UTC] PHP Stack trace:
+[04-Jun-2020 03:35:49 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:35:49 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:35:49 UTC] PHP Notice:  Undefined index: dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 13
+[04-Jun-2020 03:35:49 UTC] PHP Stack trace:
+[04-Jun-2020 03:35:49 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:35:49 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:35:49 UTC] PHP Notice:  Undefined index: department in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 14
+[04-Jun-2020 03:35:49 UTC] PHP Stack trace:
+[04-Jun-2020 03:35:49 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:35:49 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:35:49 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 15
+[04-Jun-2020 03:35:49 UTC] PHP Stack trace:
+[04-Jun-2020 03:35:49 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:35:49 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:35:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showTable() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 111
+[04-Jun-2020 03:47:00 UTC] PHP Notice:  Undefined index: name in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 10
+[04-Jun-2020 03:47:00 UTC] PHP Stack trace:
+[04-Jun-2020 03:47:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:47:00 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:47:00 UTC] PHP Notice:  Undefined index: email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 11
+[04-Jun-2020 03:47:00 UTC] PHP Stack trace:
+[04-Jun-2020 03:47:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:47:00 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:47:00 UTC] PHP Notice:  Undefined index: terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 12
+[04-Jun-2020 03:47:00 UTC] PHP Stack trace:
+[04-Jun-2020 03:47:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:47:00 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:47:00 UTC] PHP Notice:  Undefined index: dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 13
+[04-Jun-2020 03:47:00 UTC] PHP Stack trace:
+[04-Jun-2020 03:47:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:47:00 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:47:00 UTC] PHP Notice:  Undefined index: department in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 14
+[04-Jun-2020 03:47:00 UTC] PHP Stack trace:
+[04-Jun-2020 03:47:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:47:00 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:47:00 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 15
+[04-Jun-2020 03:47:00 UTC] PHP Stack trace:
+[04-Jun-2020 03:47:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 03:47:00 UTC] PHP   2. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:89
+[04-Jun-2020 03:47:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showTable() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 111
+[04-Jun-2020 04:16:00 UTC] PHP Warning:  fopen(/data/feedback_AKe92572.txt): failed to open stream: No such file or directory in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 20
+[04-Jun-2020 04:16:00 UTC] PHP Stack trace:
+[04-Jun-2020 04:16:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:0
+[04-Jun-2020 04:16:00 UTC] PHP   2. displayData() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:35
+[04-Jun-2020 04:16:00 UTC] PHP   3. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php:148
+[04-Jun-2020 04:16:00 UTC] PHP   4. fopen(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php:20
+[04-Jun-2020 04:16:00 UTC] PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 21
+[04-Jun-2020 04:16:00 UTC] PHP Stack trace:
+[04-Jun-2020 04:16:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:0
+[04-Jun-2020 04:16:00 UTC] PHP   2. displayData() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:35
+[04-Jun-2020 04:16:00 UTC] PHP   3. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php:148
+[04-Jun-2020 04:16:00 UTC] PHP   4. flock(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php:21
+[04-Jun-2020 04:16:00 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 22
+[04-Jun-2020 04:16:00 UTC] PHP Stack trace:
+[04-Jun-2020 04:16:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:0
+[04-Jun-2020 04:16:00 UTC] PHP   2. displayData() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:35
+[04-Jun-2020 04:16:00 UTC] PHP   3. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php:148
+[04-Jun-2020 04:16:00 UTC] PHP   4. fwrite(*uninitialized*, *uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php:22
+[04-Jun-2020 04:16:00 UTC] Failed to move
+[04-Jun-2020 04:16:00 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php on line 35
+[04-Jun-2020 04:16:00 UTC] PHP Stack trace:
+[04-Jun-2020 04:16:00 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:0
+[04-Jun-2020 04:16:00 UTC] PHP   2. displayData() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab03_AKe92572.php:35
+[04-Jun-2020 04:16:00 UTC] PHP   3. writeData($fileName = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php:148
+[04-Jun-2020 04:16:00 UTC] PHP   4. fclose(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\utility.inc.php:35
+[04-Jun-2020 04:18:23 UTC] No files were uploaded
+[04-Jun-2020 04:18:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function displayError() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 105
+[04-Jun-2020 04:19:28 UTC] No files were uploaded
+[04-Jun-2020 04:19:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php on line 109
+[04-Jun-2020 04:19:28 UTC] PHP Stack trace:
+[04-Jun-2020 04:19:28 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 04:19:28 UTC] PHP   2. displayErrors($errors = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:105
+[04-Jun-2020 04:19:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showTable() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 111
+[04-Jun-2020 04:25:55 UTC] No files were uploaded
+[04-Jun-2020 04:25:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php on line 109
+[04-Jun-2020 04:25:55 UTC] PHP Stack trace:
+[04-Jun-2020 04:25:55 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 04:25:55 UTC] PHP   2. displayErrors($errors = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:105
+[04-Jun-2020 04:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showTable() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 111
+[04-Jun-2020 04:27:20 UTC] No files were uploaded
+[04-Jun-2020 04:27:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php on line 109
+[04-Jun-2020 04:27:20 UTC] PHP Stack trace:
+[04-Jun-2020 04:27:20 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 04:27:20 UTC] PHP   2. displayErrors($errors = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:105
+[04-Jun-2020 04:27:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showTable() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 111
+[04-Jun-2020 04:28:58 UTC] No files were uploaded
+[04-Jun-2020 04:28:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\inc\html.inc.php on line 109
+[04-Jun-2020 04:28:59 UTC] PHP Stack trace:
+[04-Jun-2020 04:28:59 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:0
+[04-Jun-2020 04:28:59 UTC] PHP   2. displayErrors($errors = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:105
+[04-Jun-2020 04:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showTable() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 111
+[04-Jun-2020 04:29:07 UTC] No files were uploaded
+[04-Jun-2020 04:29:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function showTable() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php:111
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab04_AKe92572\Lab04.php on line 111
+[04-Jun-2020 04:30:04 UTC] No files were uploaded
+[04-Jun-2020 04:30:38 UTC] No files were uploaded
+[04-Jun-2020 04:31:26 UTC] No files were uploaded
+[04-Jun-2020 04:31:59 UTC] No files were uploaded
+[04-Jun-2020 04:39:47 UTC] No files were uploaded

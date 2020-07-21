@@ -1,0 +1,1100 @@
+[07-Jun-2020 01:23:25 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 57
+[07-Jun-2020 02:41:26 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 111
+[07-Jun-2020 02:42:15 UTC] PHP Notice:  Undefined variable: error in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 65
+[07-Jun-2020 02:42:15 UTC] PHP Stack trace:
+[07-Jun-2020 02:42:15 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 02:42:15 UTC] PHP   2. Page::header() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:17
+[07-Jun-2020 02:42:15 UTC] PHP Notice:  Undefined variable: file in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 13
+[07-Jun-2020 02:42:15 UTC] PHP Stack trace:
+[07-Jun-2020 02:42:15 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 02:42:15 UTC] PHP   2. FileUtility::read() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:28
+[07-Jun-2020 02:42:15 UTC] PHP Warning:  fopen(): Filename cannot be empty in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 13
+[07-Jun-2020 02:42:15 UTC] PHP Stack trace:
+[07-Jun-2020 02:42:15 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 02:42:15 UTC] PHP   2. FileUtility::read() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:28
+[07-Jun-2020 02:42:15 UTC] PHP   3. fopen() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:13
+[07-Jun-2020 02:42:15 UTC] PHP Notice:  Undefined variable: file in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 14
+[07-Jun-2020 02:42:15 UTC] PHP Stack trace:
+[07-Jun-2020 02:42:15 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 02:42:15 UTC] PHP   2. FileUtility::read() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:28
+[07-Jun-2020 02:42:15 UTC] PHP Warning:  fread() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 14
+[07-Jun-2020 02:42:15 UTC] PHP Stack trace:
+[07-Jun-2020 02:42:15 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 02:42:15 UTC] PHP   2. FileUtility::read() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:28
+[07-Jun-2020 02:42:15 UTC] PHP   3. fread() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:14
+[07-Jun-2020 02:42:15 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 15
+[07-Jun-2020 02:42:15 UTC] PHP Stack trace:
+[07-Jun-2020 02:42:15 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 02:42:15 UTC] PHP   2. FileUtility::read() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:28
+[07-Jun-2020 02:42:15 UTC] PHP   3. fclose() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:15
+[07-Jun-2020 02:46:14 UTC] PHP Notice:  Undefined variable: error in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 65
+[07-Jun-2020 02:46:14 UTC] PHP Stack trace:
+[07-Jun-2020 02:46:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 02:46:14 UTC] PHP   2. Page::header($title = *uninitialized*, $author = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:17
+[07-Jun-2020 02:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::article() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 33
+[07-Jun-2020 02:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::addEntryForm() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 36
+[07-Jun-2020 02:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::addEntryForm() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 36
+[07-Jun-2020 02:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::addEntryForm() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 36
+[07-Jun-2020 02:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::addEntryForm() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 36
+[07-Jun-2020 02:56:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 02:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 02:58:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 02:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:05:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:06:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:10:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:15:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:16:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:17:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::footer() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 39
+[07-Jun-2020 03:27:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::addEntryForm() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 36
+[07-Jun-2020 03:32:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::addEntryForm() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 36
+[07-Jun-2020 03:33:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Page::addEntryForm() in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php on line 36
+[07-Jun-2020 03:54:14 UTC] PHP Notice:  Array to string conversion in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 62
+[07-Jun-2020 03:54:14 UTC] PHP Stack trace:
+[07-Jun-2020 03:54:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 03:54:14 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:33
+[07-Jun-2020 03:54:14 UTC] PHP   3. Page::displayNotification($error = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php:73
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined index: deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined index: nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined index: emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined index: termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined index: dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined index: feedbackInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 45
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP   3. fopen(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:45
+[07-Jun-2020 04:11:19 UTC] PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 46
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP   3. flock(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:46
+[07-Jun-2020 04:11:19 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 47
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP   3. fwrite(*uninitialized*, *uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:47
+[07-Jun-2020 04:11:19 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 04:11:19 UTC] Failed to move
+[07-Jun-2020 04:11:19 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 61
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:11:19 UTC] PHP   3. fclose(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:61
+[07-Jun-2020 04:11:19 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Accounting::$name in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Accounting::$email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Accounting::$terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Accounting::$dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Accounting::$objfeedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$name in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$objfeedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$name in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: Computing::$objfeedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: stdClass::$name in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: stdClass::$email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: stdClass::$terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: stdClass::$dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:11:19 UTC] PHP Notice:  Undefined property: stdClass::$objfeedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:11:19 UTC] PHP Stack trace:
+[07-Jun-2020 04:11:19 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:11:19 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined index: deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined index: nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined index: emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined index: termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined index: dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined index: feedbackInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 45
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP   3. fopen(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:45
+[07-Jun-2020 04:12:17 UTC] PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 46
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP   3. flock(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:46
+[07-Jun-2020 04:12:17 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 47
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP   3. fwrite(*uninitialized*, *uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:47
+[07-Jun-2020 04:12:17 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 04:12:17 UTC] Failed to move
+[07-Jun-2020 04:12:17 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 61
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:12:17 UTC] PHP   3. fclose(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:61
+[07-Jun-2020 04:12:17 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined property: Accounting::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined property: Computing::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined property: Computing::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:12:17 UTC] PHP Notice:  Undefined property: stdClass::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:12:17 UTC] PHP Stack trace:
+[07-Jun-2020 04:12:17 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:12:17 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined index: email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined index: terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined index: terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined index: dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined index: department in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 45
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP   3. fopen(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:45
+[07-Jun-2020 04:14:36 UTC] PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 46
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP   3. flock(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:46
+[07-Jun-2020 04:14:36 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 47
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP   3. fwrite(*uninitialized*, *uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:47
+[07-Jun-2020 04:14:36 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 04:14:36 UTC] Failed to move
+[07-Jun-2020 04:14:36 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 61
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:14:36 UTC] PHP   3. fclose(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:61
+[07-Jun-2020 04:14:36 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Accounting::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Accounting::$nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Accounting::$emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Accounting::$termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Accounting::$dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Accounting::$feedbackInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$feedbackInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: Computing::$feedbackInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: stdClass::$deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: stdClass::$nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: stdClass::$emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 98
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: stdClass::$termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 99
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: stdClass::$dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 100
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:14:36 UTC] PHP Notice:  Undefined property: stdClass::$feedbackInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 101
+[07-Jun-2020 04:14:36 UTC] PHP Stack trace:
+[07-Jun-2020 04:14:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:14:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:15:02 UTC] PHP Notice:  Undefined index: email in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP Notice:  Undefined index: terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP Notice:  Undefined index: terms in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP Notice:  Undefined index: dob in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP Notice:  Undefined index: department in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 45
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP   3. fopen(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:45
+[07-Jun-2020 04:15:02 UTC] PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 46
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP   3. flock(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:46
+[07-Jun-2020 04:15:02 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 47
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP   3. fwrite(*uninitialized*, *uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:47
+[07-Jun-2020 04:15:02 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 04:15:02 UTC] Failed to move
+[07-Jun-2020 04:15:02 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 61
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:15:02 UTC] PHP   3. fclose(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:61
+[07-Jun-2020 04:15:02 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:15:02 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:15:02 UTC] PHP Stack trace:
+[07-Jun-2020 04:15:02 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:15:02 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined index: deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined index: nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined index: emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined index: termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined index: dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP Warning:  fopen() expects at least 2 parameters, 1 given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 45
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP   3. fopen(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:45
+[07-Jun-2020 04:17:57 UTC] PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 46
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP   3. flock(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:46
+[07-Jun-2020 04:17:57 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 47
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP   3. fwrite(*uninitialized*, *uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:47
+[07-Jun-2020 04:17:57 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 04:17:57 UTC] Failed to move
+[07-Jun-2020 04:17:57 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 61
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP   3. fclose(*uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:61
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined variable: errors in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 64
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:17:57 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:17:57 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:17:57 UTC] PHP Stack trace:
+[07-Jun-2020 04:17:57 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:17:57 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined index: deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined index: nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined index: emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined index: termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined index: dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined variable: errors in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 64
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:18:50 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:18:50 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:18:50 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:18:50 UTC] PHP Stack trace:
+[07-Jun-2020 04:18:50 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:18:50 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined index: deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined index: nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined index: emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined index: termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined index: dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined variable: errors in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 64
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:14 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:23:14 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:23:14 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:23:14 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:23:14 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:14 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:14 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined index: deptInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 36
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined index: nameInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 37
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined index: emailInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 38
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined index: termsInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 39
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined index: dateInput in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 40
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined index: feedback in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 41
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined variable: errors in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 64
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:23:26 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:23:26 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:23:26 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:23:26 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:23:26 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:23:26 UTC] PHP Stack trace:
+[07-Jun-2020 04:23:26 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:23:26 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:26:34 UTC] PHP Notice:  Undefined variable: input in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 47
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:26:34 UTC] PHP Notice:  Undefined variable: input in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 47
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:26:34 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:26:34 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 04:26:34 UTC] Failed to move
+[07-Jun-2020 04:26:34 UTC] PHP Notice:  Undefined variable: errors in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 64
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:26:34 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:26:34 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:26:34 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:26:34 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:26:34 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:26:34 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:26:34 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:26:34 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:26:34 UTC] PHP Stack trace:
+[07-Jun-2020 04:26:34 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:26:34 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:27:22 UTC] PHP Warning:  array_push() expects parameter 1 to be array, string given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:27:22 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 04:27:22 UTC] Failed to move
+[07-Jun-2020 04:27:22 UTC] PHP Notice:  Undefined variable: errors in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 64
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 04:27:22 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:27:22 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:27:22 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:27:22 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 04:27:22 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:27:22 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:27:22 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 04:27:22 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 04:27:22 UTC] PHP Stack trace:
+[07-Jun-2020 04:27:22 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 04:27:22 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:17:48 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 56
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 05:17:48 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:56
+[07-Jun-2020 05:17:48 UTC] Failed to move
+[07-Jun-2020 05:17:48 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:17:48 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:17:48 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:17:48 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:17:48 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:17:48 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:17:48 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:17:48 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:17:48 UTC] PHP Stack trace:
+[07-Jun-2020 05:17:48 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:17:48 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:20:12 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php on line 55
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. FileUtility::write() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:21
+[07-Jun-2020 05:20:12 UTC] PHP   3. array_push(*uninitialized*, *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\FileUtility.class.php:55
+[07-Jun-2020 05:20:12 UTC] Failed to move
+[07-Jun-2020 05:20:12 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:20:12 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:20:12 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:20:12 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:20:12 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:20:12 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:20:12 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:20:12 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:20:12 UTC] PHP Stack trace:
+[07-Jun-2020 05:20:12 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:20:12 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:21:36 UTC] Failed to move
+[07-Jun-2020 05:21:36 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:21:36 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:21:36 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:21:36 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:21:36 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:21:36 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:21:36 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:21:36 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:21:36 UTC] PHP Stack trace:
+[07-Jun-2020 05:21:36 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:21:36 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:26:42 UTC] Failed to move
+[07-Jun-2020 05:26:42 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:26:42 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:26:42 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:26:42 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 44
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:26:42 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:26:42 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:26:42 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:26:42 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 96
+[07-Jun-2020 05:26:42 UTC] PHP Stack trace:
+[07-Jun-2020 05:26:42 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:26:42 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:37:46 UTC] Failed to move
+[07-Jun-2020 05:37:46 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:37:46 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:37:46 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:37:46 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:37:46 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:37:46 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:37:46 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:37:46 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:37:46 UTC] PHP Stack trace:
+[07-Jun-2020 05:37:46 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:37:46 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:39:18 UTC] Failed to move
+[07-Jun-2020 05:39:18 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:39:18 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:39:18 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:39:18 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:39:18 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:39:18 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:39:18 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:39:18 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:39:18 UTC] PHP Stack trace:
+[07-Jun-2020 05:39:18 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:39:18 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:40:54 UTC] Failed to move
+[07-Jun-2020 05:40:54 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:40:54 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:40:54 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:40:54 UTC] PHP Warning:  Creating default object from empty value in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Feedback.class.php on line 43
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Feedback->parseData($fileContents = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:31
+[07-Jun-2020 05:40:54 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:40:54 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:40:54 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:40:54 UTC] PHP Notice:  Undefined property: stdClass::$dept in C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\inc\Page.class.php on line 97
+[07-Jun-2020 05:40:54 UTC] PHP Stack trace:
+[07-Jun-2020 05:40:54 UTC] PHP   1. {main}() C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:0
+[07-Jun-2020 05:40:54 UTC] PHP   2. Page::displayMainArticle($error = *uninitialized*, $data = *uninitialized*) C:\Users\victo\OneDrive - Douglas College\(Summer 2020) CSIS 3280 - Web Based Scripting\Lab05_AKe92572\feedbackPage.php:34
+[07-Jun-2020 05:42:08 UTC] Failed to move
+[07-Jun-2020 05:42:54 UTC] Failed to move
+[07-Jun-2020 05:45:07 UTC] Failed to move
+[07-Jun-2020 05:47:11 UTC] Failed to move
+[07-Jun-2020 05:48:21 UTC] Failed to move
+[07-Jun-2020 05:48:54 UTC] Failed to move
+[07-Jun-2020 05:51:42 UTC] 

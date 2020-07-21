@@ -1,0 +1,95 @@
+<!-- Start the page 'header' -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        <meta name="author" content="Bambang">   
+        <link href="css/styles.css" rel="stylesheet"> 
+    <head>
+
+        <!-- Basic Page Needs ––––––––––––– -->
+        <meta charset="utf-8">
+        <meta name="author" content="Bambang">
+        <title></title>
+
+        <!-- CSS ––––––––––––––––––––––––––––––––––––––– -->
+        <link href="css/styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <header>
+            <h1>Order data and Form</h1>
+        </header>
+        <article>
+            <!-- Start the page's show data form -->
+            <section class="main">
+                <div class="error" style="display: block;">
+                <h2>Notification</h2>
+                    This is to notify whether the data has been submitted
+                    or have errors... 
+                    If there's error, provide the name of the form causing the error, i.e.,                                    
+                    "Add Entry form" or "File Upload Form"
+                    and provide the list of errors
+                </div>
+                <h2>Current Data</h2>
+                <table>
+                    <thead><tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Terms</th>
+                        <th>DOB</th>
+                        <th>Dept</th>
+                        <th>Feedback</th>
+                    </tr></thead>
+                    <tbody class="oddRow"><tr>
+                        <td>Joe Douglas</td>
+                        <td>joe@douglas.com</td>
+                        <td>5</td>
+                        <td>2000-02-08</td>
+                        <td>ACCT</td>
+                        <td>Cool</td>
+                    </tr></tbody>
+                    <tbody class="evenRow"><tr>
+                        <td>Douglas Joe</td>
+                        <td>douglas@joe.com</td>
+                        <td>4</td>
+                        <td>1995-06-13</td>
+                        <td>CSIS</td>
+                        <td>Awesome</td>
+                    </tr></tbody>
+                    <tbody class="oddRow"><tr>
+                        <td>PHP Coder</td>
+                        <td>test@somewhere.code</td>
+                        <td>3</td>
+                        <td>1998-07-08</td>
+                        <td>CSIS</td>
+                        <td>Noice</td>
+                    </tr></tbody>
+                    <tbody class="evenRow"><tr>
+                        <td>Anonymous Me</td>
+                        <td>me@nowhere.com</td>
+                        <td>4</td>
+                        <td>1995-06-13</td>
+                        <td>CSIS</td>
+                        <td>This is quite a long comment from me. Somehow I need to write a very long message in this no fun form</td>
+                    </tr></tbody>
+                    </table>
+            </section>           
+            
+            <!-- Start the page's upload form -->
+            <section class="form1">
+                <h2>Load a file</h2>
+                <form method="post" enctype="multipart/form-data">     
+                    You can also load a data file (txt). <br>                      
+                      <input type="file" name="orderData" value=""><br>                                          
+                    <input  type="submit" name="submit" value="Go!">
+                    
+                    
+                  </form>
+            </section>
+
+<!-- Start the page's footer -->            
+        </article>
+    </body>
+
+</html>

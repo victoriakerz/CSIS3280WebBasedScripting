@@ -1,0 +1,7 @@
+Name,Email,Terms,DOB,Dept,Feedback
+Joe Douglas,joe@douglas.com,5,2000-02-08,ACCT,Cool
+Douglas Joe,douglas@joe.com,4,1995-06-13,CSIS,Awesome
+Victoria,vic#@skdjfc.com,2,2020-74-4,CIS,Ok
+sdfsdff,asdsdasd@eteyryy.h,4,1985-01-14,business,fdfdfdf
+aaaaaaaa,aaaaadddd@iksjdfij.com,5,1985-01-12,business,dkjdfsfdjsfdsfd
+hi,hello@fdkj.com,4,1985-01-12,business,sdfsdfsfd

@@ -1,0 +1,6 @@
+[08-Jul-2020 22:02:58 UTC] PHP Warning:  require_once(inc/Utility/BookDAO.class.php): failed to open stream: No such file or directory in C:\temp\csis3280\001\week09\demo\CSIS3280Week9Demo.php on line 9
+[08-Jul-2020 22:02:58 UTC] PHP Stack trace:
+[08-Jul-2020 22:02:58 UTC] PHP   1. {main}() C:\temp\csis3280\001\week09\demo\CSIS3280Week9Demo.php:0
+[08-Jul-2020 22:02:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'inc/Utility/BookDAO.class.php' (include_path='.;C:\php\pear') in C:\temp\csis3280\001\week09\demo\CSIS3280Week9Demo.php on line 9
+[08-Jul-2020 22:02:58 UTC] PHP Stack trace:
+[08-Jul-2020 22:02:58 UTC] PHP   1. {main}() C:\temp\csis3280\001\week09\demo\CSIS3280Week9Demo.php:0

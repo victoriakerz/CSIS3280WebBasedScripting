@@ -1,0 +1,33 @@
+.highlight{
+    border-radius: 5px; 
+    background-color:chocolate;
+    padding: 10px;color:white
+}
+
+.width100 {
+    width: 100%;
+    box-sizing: border-box; 
+}
+
+.width50 {
+    width: 48%;
+    box-sizing: border-box;
+    float: left;   
+}
+
+#order{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+#order>legend{
+    padding: 2px 10px;    
+    background-color: lightgray;
+    border-radius: 2px;
+}
+
+section{
+    margin-top: 5% !important;
+}
+
+

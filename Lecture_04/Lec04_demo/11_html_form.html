@@ -1,0 +1,47 @@
+<!-- Start HTML -->
+<!DOCTYPE html>
+    <html>
+
+    <head>
+
+        <!-- Basic Page Needs ––––––––––––– -->
+        <meta charset="utf-8">
+        <title>Order Form</title>
+
+        <!-- CSS ––––––––––––––––––––––––––––––––––––––– -->
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/skeleton.css">
+        <link rel="stylesheet" href="css/additional.css">
+
+    </head>
+
+    <body>
+        <!-- Primary Page Layout ––––––––––––––––––––– -->
+        <section class="container row">
+            <h2>Order Form</h2>
+            <!-- Start the form -->
+            <form METHOD="POST" ACTION="">     
+                <div class="row">          
+                    <label for="name">Your Name</label>
+                    <input class="width100" type="text" name="name">          
+                </div>
+            
+                <fieldset id="order"> 
+                    <legend>Orders</legend>
+                    <div class="row">             
+                        <label class="width50" for="tires">Tires</label>
+                        <input class="width50" type="text" name="tires">
+                    </div>
+                    <div class="row">             
+                        <label class="width50" for="oil">Oil (Max 10)</label>
+                        <input class="width50" type="text" name="oil">
+                    </div>
+                
+            
+                </fieldset>
+                <input class="button-primary" type="submit" value="Submit Order">
+            </form>
+        <!-- Close the html -->
+    </section>
+</body>
+</html>
